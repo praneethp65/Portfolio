@@ -1,7 +1,7 @@
 # Portfolio
 
 # Introduction
-This portfolio website is designed to provide a comprehensive overview of my academic background, technical skills, projects, and certifications. It serves as a professional online presence and a way for potential employers or collaborators to learn more about me and my work.
+This portfolio website is designed to provide an overview of my academic background, technical skills, projects, and certifications. It serves as a professional online presence and a way for potential employers or collaborators to learn more about me and my work.
 
 # Features
 Responsive Design: Optimized for both desktop and mobile viewing.
@@ -19,7 +19,6 @@ Google Fonts: For typography.
 
 
 # Setup Instructions
-
 If you want to run this project locally, follow these steps:
 1.Clone the repository:
   git clone https://github.com/praneethp65/portfolio-website.git
